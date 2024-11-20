@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanx2i&label=Profile%20views&color=0b3493&style=flat" alt="yanx2i" /> </p>
 
+- 🌱 I’m currently learning **Art&Tech at Chung-Ang University**
+
+- 📫 How to reach me **iam16y@naver.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/yanx2i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanx2i" height="30" width="40" /></a>
