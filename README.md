@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doyeon Kim</h1>
 <h3 align="center">I'm studying Art&Tech at Chung-Ang University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanx2i&label=Profile%20views&color=0b3493&style=flat" alt="yanx2i" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yanx2i&label=Profile%20views&color=0b3493&style=flat" alt="yanx2i" /> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=YANNI">
 
 - 🌱 I’m currently learning **Art&Tech at Chung-Ang University**
 
