@@ -28,4 +28,4 @@
 <h3 align="left">🛠Tools🛠 :</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" width="40" height="40"/> </a> 
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanx2i&show_icons=true&title_color=e0d4ae&text_color=93a0d2&bg_color=b8a1a5&locale=en" alt="yanx2i" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanx2i&show_icons=true&title_color=e0d4ae&text_color=00156b&bg_color=b8a1a5&locale=en" alt="yanx2i" /></p>
