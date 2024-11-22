@@ -13,9 +13,9 @@
 <p align="left">
   
 - In **High school**: **making furniture** for me and donations, making a **Bizcool business** on campus, making a **Photo booth** to revitalize the festival on campus, participating in **Academic Seminar**.
-- In **College**: **Nothing special yet**, but I plan to fill out various projects in the future. I'm not good enough right now, but I'm **confident that I'll grow**.
+- In **College**: **Nothing special yet**, but I plan to fill out various projects in the future. I'm not good enough right now, but I'm confident that I'll grow. **Let's grow together!** I'm always open😊
 
-<h3 align="left">Other 📱SNS📲:</h3>
+<h3 align="left">📱SNS📲:</h3>
 <p align="left">
 <a href="https://instagram.com/yanx2i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanx2i" height="30" width="40" /></a>
 </p>
